@@ -1,14 +1,14 @@
-# Links Website
+### Links Website
 
 See Live Demo on [https://nihal-priyadarshi.github.io/My_Links/](https://nihal-priyadarshi.github.io/My_Links/)
 
 My Webpage Looks Like This, Go And Explore It.
 Here, You Can Find My All Links!
 
-![Screenshot](./Images/Webpage's Screenshot.png "Screenshot")
+![Screenshot](./Images/Webpage's_Screenshot.png "Screenshot")
 
 
-## Thanks!
+#### Thanks!
 
 Thank you for being here! You can find my other project **[here](https://github.com/Nihal-Priyadarshi?tab=repositories)**.
 
@@ -18,5 +18,4 @@ Thank you for being here! You can find my other project **[here](https://github.
 	<a href="https://github.com/Nihal-Priyadarshi"><img src="https://img.shields.io/github/followers/flyingsonu122.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.facebook.com/nihal.priyadarshi.1999"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 	<a href="https://instagram.com/nihal_priyadarshi?igshid=1sdgxdfcf7ksq"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-	<a href="https://twitter.com/nihal08121999"><img src="https://img.shields.io/twitter--_.svg?label=Follow&style=social" alt="Twitter"></a>
 </p>
