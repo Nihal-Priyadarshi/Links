@@ -1,12 +1,6 @@
 ### Links Website
 
-See Live Demo on [https://nihal-priyadarshi.github.io/My_Links/](https://nihal-priyadarshi.github.io/My_Links/)
-
-My Webpage Looks Like This, Go And Explore It.
-Here, You Can Find My All Links!
-
-![Screenshot](./Images/Webpage's_Screenshot.png "Screenshot")
-
+See Live Demo on []()
 
 #### Thanks!
 
