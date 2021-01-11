@@ -1,0 +1,38 @@
+﻿C:.
+│   README.md
+│   _config.yml
+│   tree.txt
+│   
+├───type 1
+│   │    README.md
+│   │    index.html
+│   │ 
+│   ├───css
+│   │       bootstrap.css
+│   │       bootstrap.min.css
+│   │
+│   ├───images
+│   │       Codechef.jpg
+│   │       Dev_Community.png
+│   │       Devfolio.jpeg
+│   │       E-mail.png
+│   │       Facebook.jpg
+│   │       GeeksForGeeks.jpg
+│   │       GitHub.png
+│   │       Hackerrank.png
+│   │       Instagram.jpg
+│   │       Sololearn.png
+│   │       Twitter.png
+│   │       Udemy.png
+│   │       Webpage's_Screenshot.png
+│   │
+│   └───js
+│           bootstrap.js
+│           bootstrap.min.js
+│           jquery.js
+│
+├───type 2
+│        index.html
+│     
+└───type 3
+         index.html
