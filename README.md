@@ -46,7 +46,7 @@ C:.
 │   │       Sololearn.png
 │   │       Twitter.png
 │   │       Udemy.png
-│   │       Webpage's_Screenshot.png
+│   │       Webpage_Screenshot.png
 │   │
 │   └───js
 │           bootstrap.js
