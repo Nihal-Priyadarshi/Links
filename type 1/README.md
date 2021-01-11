@@ -5,7 +5,7 @@ See Live Demo on []()
 My Webpage Looks Like This, Go And Explore It.
 Here, You Can Find My All Links!
 
-![Screenshot](./images/Webpage's_Screenshot.png "Screenshot")
+![Screenshot](./images/Webpage_Screenshot.png "Screenshot")
 
 
 #### Thanks!
