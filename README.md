@@ -3,7 +3,8 @@
 
 ## Scroll down and click on different tabs for differert views.
 
-### [type 1](https://Nihal-Priyadarshi.github.io/My_Links/type%201/index.html)
+### [Type 1](https://Nihal-Priyadarshi.github.io/My_Links/type%201/index.html)
+### [Type 2](https://Nihal-Priyadarshi.github.io/My_Links/type%202/index.html)
 
 #### Thanks!
 
@@ -53,7 +54,10 @@ C:.
 │           jquery.js
 │
 ├───type 2
+│	 README.md
+│	 Webpage_screenshot.png
 │        index.html
+│	 style.css
 │     
 └───type 3
          index.html
