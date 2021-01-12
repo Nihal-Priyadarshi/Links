@@ -1,11 +1,11 @@
 ### Links Website
 
-See Live Demo on []()
+See Live Demo on [https://Nihal-Priyadarshi.github.io/My_Links/type%202/index.html](https://Nihal-Priyadarshi.github.io/My_Links/type%202/index.html)
 
 My Webpage Looks Like This, Go And Explore It.
 Here, You Can Find My All Links!
 
-![Screenshot](./images/Webpage_Screenshot.png "Screenshot")
+![Screenshot](./Webpage_Screenshot.png "Screenshot")
 
 
 #### Thanks!
