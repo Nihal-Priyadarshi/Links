@@ -1,3 +1,23 @@
+pre:hover{
+    color: rgb(0, 255, 42);
+    text-shadow: 1px 1px 5px red;
+}
+
+.hover-text-one:hover{
+    color: fuchsia;
+}
+.hover-text-two:hover{
+    color: coral;
+}
+.hover-text-three:hover{
+    color: black;
+}
+
+.button:hover{
+    background-color: black;
+    color: chartreuse;
+}
+
 @media screen and (max-width: 576px) {
     .one{
         font-size: 1rem;
