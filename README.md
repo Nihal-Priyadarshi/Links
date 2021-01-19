@@ -7,13 +7,6 @@
 ### [Type 2](https://Nihal-Priyadarshi.github.io/My_Links/type%202/index.html)
 ### [Type 3](https://Nihal-Priyadarshi.github.io/My_Links/type%203/index.html)
 
-
-#### Thanks!
-
-Thank you for being here! You can find my other project **[here](https://github.com/Nihal-Priyadarshi?tab=repositories)**.
-
-<br><br>
-
 ----------
 
 
