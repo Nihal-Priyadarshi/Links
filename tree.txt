@@ -1,4 +1,4 @@
-﻿C:.
+ C:.
 │   README.md
 │   _config.yml
 │   tree.txt
@@ -32,7 +32,13 @@
 │           jquery.js
 │
 ├───type 2
-│        index.html
-│     
+│	 README.md
+│	 Webpage_screenshot.png
+│         index.html
+│	 style.css
+│        
 └───type 3
-         index.html
+	 README.md
+	 Webpage_screenshot.png
+          index.html
+	 style.css
