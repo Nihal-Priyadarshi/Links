@@ -55,13 +55,18 @@ C:.
 │           bootstrap.min.js
 │           jquery.js
 │
-└───type 2
+├───type 2
+│	 README.md
+│	 Webpage_screenshot.png
+│        index.html
+│	 style.css
+│        
+└───type 3
 	 README.md
 	 Webpage_screenshot.png
          index.html
 	 style.css
-        
-         
+
 ```
 
 ----------
