@@ -14,15 +14,95 @@ body{
     min-height: 100vh;
     background: #232427;
 }
-.header{
-    display: block;
-    position: relative;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-/*    margin: 40px 0;*/
-    box-sizing: border-box;  
-    background: red;
+.header, .footer{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 40px;
+    min-width: 992px !important;
+}
+@media (min-width: 576px) {
+    .header, .footer{
+      max-width: 540px;
+    }
+}
+  
+  @media (min-width: 768px) {
+    .header, .footer{
+      max-width: 720px;
+    }
+}
+  
+  @media (min-width: 992px) {
+    .header, .footer{
+      max-width: 960px;
+    }
+}
+  
+  @media (min-width: 1200px) {
+    .header, .footer{
+      max-width: 1140px;
+    }
+}
+pre{
+    text-align: center;
+    background-color: rgba(68, 66, 66, 0);
+    color: white;
+}
+@media screen and (max-width: 576px) {
+    .one{
+        font-size: 1rem;
+    }
+    .two{
+        font-size: 1.2rem;
+    }
+    .three{
+        font-size: 0.85rem;
+    }
+    .xtwo{
+        font-size: 1.1rem;
+    }
+    .xthree{
+        font-size: 0.78rem;
+    }
+}
+@media screen and (min-width: 577px) and (max-width: 770px) {
+    .one{
+        font-size: 2rem;
+    }
+    .two{
+        font-size: 1.7rem;
+    }
+    .three{
+        font-size: 1.7rem;
+    }
+    .xtwo{
+        font-size: 1.7rem;
+    }
+    .xthree{
+        font-size: 1.5rem;
+    }
+}
+@media screen and (max-width: 750px) and (orientation: landscape) {
+    .one{
+        font-size: 2rem;
+    }
+    .two, .xtwo, .three, .xthree{
+        font-size: 1.3rem;
+    } 
+}
+.top:hover, .bottom:hover{
+    color: wheat;
+    transition-duration: 1s;
+    border-radius: 400px 400px 50px 50px / 200px 200px 50px 50px;
+    text-shadow: 1px 1px white;
+    box-shadow: 3px 2px 5px black;
+}
+.top:hover{
+    background: linear-gradient(rgba(68, 66, 66, 0.5),rgba(68, 66, 66, 0.1));
+}
+.bottom:hover{
+    background: linear-gradient(rgba(68, 66, 66, 0.1),rgba(68, 66, 66, 0.5));
 }
 .container{
     display: flex;
@@ -34,8 +114,8 @@ body{
 }
 .container .card{
     position: relative;
-    min-width: 320px;
-    height: 440px;
+    min-width: 280px;
+    height: 360px;
     box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.2),
                 inset -5px -5px 15px rgba(255, 255, 255, 0.1),
                 5px 5px 5px rgba(0, 0, 0, 0.3),
