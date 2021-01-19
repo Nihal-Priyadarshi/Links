@@ -5,6 +5,8 @@
 
 ### [Type 1](https://Nihal-Priyadarshi.github.io/My_Links/type%201/index.html)
 ### [Type 2](https://Nihal-Priyadarshi.github.io/My_Links/type%202/index.html)
+### [Type 3](https://Nihal-Priyadarshi.github.io/My_Links/type%203/index.html)
+
 
 #### Thanks!
 
